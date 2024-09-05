@@ -312,3 +312,69 @@
  TAB ...................................... Complete filename & cycle.
  SHIFT-TAB ...................... ESC-TAB   Complete filename & reverse cycle.
  ctrl-L ................................... Complete filename, list all.
+[33m386f79d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to 386f79d
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{1}: checkout: moving from login to main
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{2}: reset: moving to 5af6401
+[33m386f79d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{3}: reset: moving to 386f79d
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{4}: reset: moving to main
+[33m386f79d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{5}: reset: moving to 386f79d
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{6}: checkout: moving from main to login
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{7}: checkout: moving from main to main
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{8}: checkout: moving from login to main
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{9}: checkout: moving from main to login
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{10}: checkout: moving from main to main
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{11}: merge login: Fast-forward
+[33ma997b50[m HEAD@{12}: checkout: moving from login to main
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{13}: reset: moving to HEAD
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{14}: checkout: moving from main to login
+[33ma997b50[m HEAD@{15}: checkout: moving from login to main
+[33m5af6401[m[33m ([m[1;32mlogin[m[33m)[m HEAD@{16}: commit: Borre una cosa sin formato que se creo
+[33m386f79d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{17}: commit: Login v2
+[33mf0d9d5e[m HEAD@{18}: checkout: moving from main to login
+[33ma997b50[m HEAD@{19}: checkout: moving from login to main
+[33mf0d9d5e[m HEAD@{20}: reset: moving to HEAD
+[33mf0d9d5e[m HEAD@{21}: commit (merge): Corección conflicto
+[33m567f1b6[m HEAD@{22}: checkout: moving from main to login
+[33ma997b50[m HEAD@{23}: commit: Git 3 v3
+[33m2cb57fe[m HEAD@{24}: checkout: moving from login to main
+[33m567f1b6[m HEAD@{25}: commit: Git 3 Login
+[33m92030ed[m HEAD@{26}: merge main: Merge made by the 'ort' strategy.
+[33m9e2699d[m HEAD@{27}: checkout: moving from main to login
+[33m2cb57fe[m HEAD@{28}: commit: Git 3 v2
+[33m887f731[m HEAD@{29}: checkout: moving from login to main
+[33m9e2699d[m HEAD@{30}: commit: Login
+[33m887f731[m HEAD@{31}: checkout: moving from main to login
+[33m887f731[m HEAD@{32}: checkout: moving from 3be9eeef4ac5e80ad8110f4e97bdb703e951dc3c to main
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{33}: checkout: moving from main to tags/clase_1
+[33m887f731[m HEAD@{34}: commit: Este es mi quinto commit
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{35}: reset: moving to 3be9eee
+[33m63d363e[m HEAD@{36}: checkout: moving from main to main
+[33m63d363e[m HEAD@{37}: reset: moving to 63d363e
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{38}: reset: moving to 3be9eee
+[33m63d363e[m HEAD@{39}: checkout: moving from 3be9eeef4ac5e80ad8110f4e97bdb703e951dc3c to main
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{40}: checkout: moving from main to 3be9eee
+[33m63d363e[m HEAD@{41}: checkout: moving from main to main
+[33m63d363e[m HEAD@{42}: checkout: moving from 3be9eeef4ac5e80ad8110f4e97bdb703e951dc3c to main
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{43}: checkout: moving from main to 3be9eee
+[33m63d363e[m HEAD@{44}: checkout: moving from 63d363e13109240c0c45fb6669c5efd5425a1cf8 to main
+[33m63d363e[m HEAD@{45}: checkout: moving from f0c3b79d65b08d119fa0d760df82aff0c0a5ff1e to 63d363e
+[33mf0c3b79[m HEAD@{46}: checkout: moving from main to f0c3b79
+[33m63d363e[m HEAD@{47}: reset: moving to 63d363e
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{48}: checkout: moving from f0c3b79d65b08d119fa0d760df82aff0c0a5ff1e to main
+[33mf0c3b79[m HEAD@{49}: checkout: moving from main to f0c3b79
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{50}: checkout: moving from 3be9eeef4ac5e80ad8110f4e97bdb703e951dc3c to main
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{51}: checkout: moving from main to 3be9eee
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{52}: reset: moving to 3be9eee
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{53}: checkout: moving from 63d363e13109240c0c45fb6669c5efd5425a1cf8 to main
+[33m63d363e[m HEAD@{54}: reset: moving to 63d363e
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{55}: checkout: moving from 63d363e13109240c0c45fb6669c5efd5425a1cf8 to 3be9eee
+[33m63d363e[m HEAD@{56}: reset: moving to 63d363e
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{57}: checkout: moving from f0c3b79d65b08d119fa0d760df82aff0c0a5ff1e to 3be9eee
+[33mf0c3b79[m HEAD@{58}: checkout: moving from 3be9eeef4ac5e80ad8110f4e97bdb703e951dc3c to f0c3b79d65b08d119fa0d760df82aff0c0a5ff1e
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{59}: checkout: moving from f0c3b79d65b08d119fa0d760df82aff0c0a5ff1e to 3be9eee
+[33mf0c3b79[m HEAD@{60}: checkout: moving from main to f0c3b79d65b08d119fa0d760df82aff0c0a5ff1e
+[33m3be9eee[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{61}: commit: Se añade el .gitignore
+[33m8b0132c[m HEAD@{62}: commit: Se actualiza el texto del print
+[33m63d363e[m HEAD@{63}: reset: moving to HEAD
+[33m63d363e[m HEAD@{64}: commit: Este es mi segundo commit
+[33mf0c3b79[m HEAD@{65}: commit (initial): Eeste es mi primer commit
